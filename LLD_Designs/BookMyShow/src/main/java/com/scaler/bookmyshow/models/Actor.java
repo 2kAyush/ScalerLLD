@@ -6,7 +6,6 @@ import lombok.Setter;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.ManyToMany;
-import java.security.PrivateKey;
 import java.util.List;
 
 @Getter
